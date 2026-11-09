@@ -31,3 +31,6 @@ For personal use. See LICENSE.txt.
 - Light shafts averaged over two dithers from the High profile up, for a clean result without TAA.
 - Nether biome colours recovered from the fog colour (Horizon gives no biome).
 - Softer Nether storm (0.36) and Nether/End border fog (0.90).
+
+## Screenshots
+![ScreenShot](https://github.com/tomasmendes01/aurora-horizon/blob/main/2026-11-08_23.46.08.png?raw=true)

@@ -1,4 +1,4 @@
-# Aurora
+# Aurora Recrafted
 
 A shader pack for Horizon, written against Horizon's native shader API 0.1. Aurora brings a full
 desktop-style shader pipeline to Horizon: real-time shadows, volumetric light shafts, water,
